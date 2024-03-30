@@ -1,0 +1,132 @@
+h1 {
+    background-color: lightcoral;
+    width: 400px;
+    line-height: 40px;
+    border-radius: 10px;
+    color: saddlebrown;
+    box-shadow: 5px 10px 15px;
+
+
+}
+
+
+
+
+td {
+    width: 0px;
+    height: 5px;
+    text-align: center;
+    margin-bottom: 10px;
+    padding-bottom: 0px;
+    line-height: 1px;
+    border-radius: 5px;
+    box-shadow: 0px 1px 5px;
+}
+
+
+
+
+
+.number {
+    font-size: 12px;
+    font-weight: normal;
+    line-height: 3px;
+    margin-top: 0px;
+    padding: 5px;
+}
+
+.green {
+    background-color: #99E599;
+    color: darkgreen;
+
+
+}
+
+.yellow {
+    background-color: #FFE57F;
+    color: grey;
+
+}
+
+.peach {
+    background-color: #FFCCB2;
+    color: brown;
+
+}
+
+.brown {
+    background-color: #EA8350;
+    color: white;
+
+}
+
+.skyblue {
+    background-color: #B2E5FF;
+    color: steelblue;
+
+
+    
+
+
+}
+
+
+.pink {
+    background-color: #FFCCE5;
+    color: darkred;
+}
+
+
+.grey {
+    background-color: #CCCCCC;
+    color: dimgray;
+
+}
+
+.lgreen {
+    background-color: #99E5B2;
+    color: darkslategrey;
+
+}
+
+.ublue {
+    background-color: #B2CCFF;
+    color: navy;
+
+}
+
+.purple {
+    background-color: #9E87BD;
+    color: indigo;
+
+}
+
+.aquagreen {
+    background-color: #7FE5E5;
+    color: darkcyan;
+
+}
+
+
+.name {
+    font-size: 12px;
+    font-weight: bold;
+}
+
+
+.element {
+    font-size: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+
+
+
+
+}
+
+
+
+
+
+
+
