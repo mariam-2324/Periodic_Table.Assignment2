@@ -1,6 +1,6 @@
-# The Periodic Table of Elements 🌈🔬✨
+# Professional Frontend Project: The Periodic Table of Elements 🌈🔬✨
 
-## Introduction to the Periodic Table
+## Introduction to the Periodic Table 🎉 
 The periodic table is a tabular arrangement of chemical elements, organized by **atomic number** (the number of protons in the nucleus), **electron configuration** (the distribution of electrons in atomic orbitals), and recurring **chemical properties** (such as reactivity, valence, and metallic character). Elements are grouped into **periods** (horizontal rows, representing electron shells) and **groups** (vertical columns, sharing similar properties due to valence electrons). For example:
 - **Group 1 (Alkali Metals)**: Highly reactive, like Li (Lithium) and Na (Sodium).
 - **Group 18 (Noble Gases)**: Inert, like He (Helium) and Ne (Neon).
@@ -188,6 +188,9 @@ CSS handles the visuals, layout, colors, borders, and effects. We'll use modern 
 ## Conclusion
 This HTML and CSS setup recreates the image's periodic table, blending structure (grid for atomic number organization) with styles (colors for chemical properties). No lists are core to the table, but they could enhance legends. Electron configurations aren't visually shown but implied by periods (e.g., Period 1: 1s orbitals). For a live version, tools like CodePen could test this! 🧪📊
 
+## 🙌 Acknowledgments
+
+A special thanks to the [IEC](https://iec.org.pk/) for providing this valuable learning opportunity and guiding me through my development journey!💡
 
 **The Image**📷
  ![periodic-table](https://github.com/user-attachments/assets/46ad1338-ec90-4b03-8727-14ea1feb47d0)
